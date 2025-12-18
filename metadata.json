@@ -1,0 +1,8 @@
+{
+  "name": "iOS Glass OS",
+  "description": "A high-fidelity iOS simulator with liquid glass aesthetics, featuring functional Camera, Siri (Gemini), Messages, and Music.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
